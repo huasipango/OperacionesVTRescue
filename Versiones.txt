@@ -1,0 +1,224 @@
+1.0.1-. Liberacion Inicial Serv. Produccion 1/May/2017
+1.0.2-. Se agregaron etiquetas para complemento CMPV Facturaciòn Electronica 15/May/2017
+1.0.3-. Se agrego el modulo de facturaciòn de tarjetas y otros ingresos 30/May/2017
+	Se agrego la renovacion de password cada 3 meses 31/May/2017
+1.0.4-. Se agrego el reporte de Dispersiòn Diaria 13/Jun/2017
+	Se cambio el puerto de la base de datos de produccion 13/Jun/2017
+	Se agrego la consulta de pedidos 13/Jun/2017
+	Se agrego forma frmActualizaPed 4/Jul/2017
+	Se modifico la impresion de las facturas de gasolina y facturas normales 8/Jul/2017
+	Se agrego el envio de tipo de combustible de tarjegas gas a S&C 9/Jul/2017
+	Se corrigió detalles en el envío de alta de empleadoras 11/Jul/2017
+	Se agrego el layout para la alta de domicilios de estado de cuenta 19/Jul/2017
+	Se hicieron cambios en las etiquetas de Factura Electrònica 25/Jul/2017
+	Se agrego pantalla de correos de facturación electrónica 26/Jul/2017
+1.0.5-. Se corrigio el iva de la comision facturacion de tarjetas 2/Ago/2017
+	Se modifico la ruta de la generaciòn de la factura a GoDir 2/Ago/2017
+	Se agrega validaciòn para revisar si el equipo esta configurado para facturar 2/Ago/2017
+1.0.6-. Se modifico el layout de domicilios de entrega de ACEF a MDF 22/Ago/2017
+	Se corrigio formatos de impresion de facturas y comprobantes 24/Ago/2017
+1.0.7-. Se agrego la forma de ajustes 29/Ago/2017
+	Se agrego la integración de ajustes LiquidacionesBePaso 31/Ago/2017
+	Se modifico nuevamente el layout MDF por error de S&C 5/Sep/2017
+	Se agrego la forma de Transacciones por Comercio 6/Sep/2017
+	Se agrego la forma de captura de Cargos de Banco 7/Sep/2017
+	Se agrego la forma de saldos finales 8/Sep/2017
+	Se agrego la forma de facturaciòn de comisiones 11/Sep/2017
+	Se agrego la forma de ingresos de comisiones 11/Sep/2017
+	Se agrego la forma de cancelacion de facturas de dispersion 11/Sep/2017
+	Se agrego el reporte de status de solicitudes de tarjetas 12/Sep/2017
+	Se agrego el reporte de tarjetas estancadas 12/Sep/2017
+	Se agrego la forma de cancelación de tarjetas 12/Sep/2017
+	Se agrego la forma de reactivación de tarjetas 12/Sep/2017
+	Se agrego la forma de activación masiva de tarjetas de stock 12/Sep/2017
+	Se agrego la forma de deshacer activación de cuenta de stock 13/Sep/2017
+	Se agrego la forma de captura de envios 14/Sep/2017
+	Se agrego la forma de caratula de envios 15/Sep/2017
+	Se agrego la forma de control de envios 15/Sep/2017
+1.0.8-. Se agrego la forma de consulta de saldos 19/Sep/2017
+	Se agrego la forma de movimientos de empleados por cliente 20/Sep/2017
+	Se agrego la forma de bitacora de pedidos 20/Sep/2017
+	Se agrego la forma de consulta de actividades de banco 20/sep/2017
+	Se agrego la forma de clientes OI 20/sep/2017
+	Se agrego la forma de depositos OI 25/sep/2017
+	Se agrego el reporte de estado de cuenta OI 25/Sep/2017
+	Se agrego el reporte de corte de caja OI 25/Sep/2017
+	Se agrego el reporte de aplicacion de la cobranza 25/Sep/2017
+	Se agrego el reporte de validacion de la cobranza 27/Sep/2017
+	Se agrego el reporte de antiguedad de saldos de la cobranza 27/Sep/2017
+	Se agrego la forma de cambio password 27/Sep/2017
+	Se agrego el reporte de transacciones por comercio 27/Sep/2017
+	Se agrego el reporte de transacciones detalladas 27/Sep/2017
+	Se agrego la forma de alta usuarios ERP Vale Total 29/Sep/2017
+	Se agrego el reporte de libro de comisiones 10/Oct/2017
+	Se agrego el reporte de estatus de tarjetas 10/Oct/2017
+	se agrego el reporte de produccion de tarjetas 10/Oct/2017
+	se agrego el reporte de entrega de tarjetas 11/Oct/2017
+	se agrego el reporte mensual de entregas 11/Oct/2017
+	se agrego el reporte de tarjetas canceladas 11/Oct/2017
+	se agrego el reporte de sustitución de tarjetas 11/Oct/2017
+	Se hicieron cambios en la generacion de tarjetas de stock 18/ocT/2017
+	Se agrego encriptaciòn en password 25/Oct/2017
+	Se modifico el layout MDF por conferencia que se tuvo con S&C 26/Oct/207
+1.0.9-. se agrego el reporte de tarjetas en Stock por cliente 31/Oct/2017
+	se agrego el reporte de tarjetas por factura 31/Oct/2017
+	se agrego el reporte de ajustes a cuenta 31/Oct/2017
+	Se agrego el reporte de cuentas por cliente 01/Nov/2017
+	Se agrego el reporte de ajustes por fondos insuficientes 01/Nov/2017
+	Se agrego el reporte de consulta saldos finales 02/Nov/2017
+	Se agrego el reporte de estados de resultados 02/Nov/2017
+	Se encripto el campo de tarjeta 05/Nov/2017
+	Se agrego el reporte de estatus de clietnes 05/Nov/2017
+	Se agrego el reporte de indicadores 05/Nov/2017	
+	Se agrego el reporte de depositos otros bancos 05/Nov/2017	
+	Se agrego el reporte de facturas de tarjetas 05/Nov/2017	
+	Se agrego el reporte de indicador de transacciones 05/Nov/2017
+	Se agrego el reporte de indicador de estado de cuenta global 05/Nov/2017
+	Se agrego el reporte de tarjetas por cliente 05/Nov/2017
+	Se agrego el reporte de consultas de movimientos otros ingresos 05/Nov/2017
+	Se agrego el reporte de pedidos por fecha de dispersion 05/Nov/2017
+	Se agrego el reporte de dispersion vs facturacion 05/Nov/2017
+1.0.10-.Se agrego el reporte de dispersion vs facturacion Mensual 13/Nov/2017
+	Se agrego el reporte de conciliación de transacciones 13/Nov/2017
+	Se agrego el reporte de ajustes mensual 13/Nov/2017
+	Se agrego el reporte de resumen de transacciones 13/Nov/2017
+	Se agrego el reporte de cargos del banco 14/Nov/2017
+1.0.11-.Se agrego el reporte de Detalle de movimientos mensuales 28/Nov/2017
+	Se agrego el reporte de transacciones no conciliadas 28/Nov/2017
+	Se agrego el reporte de ingresos de tarjetas 28/Nov/2017
+	Se agrego el reporte de ingresos de afiliados 28/Nov/2017
+	Se agrego el reporte de empleados por sucursal 01/Dic/2017
+	Se agrego la forma de cancelacion de facturas otros ingresos 01/Dic/2017
+	Se agrego la forma de cancelacion de Nota de credito 04/Dic/2017
+	Se agrego la forma de Nota de cargo 05/Dic/2017
+	Se agrego la forma de cancelacion de Nota de cargo 05/Dic/2017
+	Se agrego el reporte de libro de ventas 05/Dic/2017
+	Se agrego el reporte de diario de notas de credito 05/Dic/2017
+	Se agrego el reporte de transacciones 05/Dic/2017
+1.0.12	Se agrego la forma de Nota de Credito 14/Dic/2017
+	Se corrigio la generacion del archivo de stock a S&C 21/Dic/2017
+1.1.1	Se modifico la generacion de dispersiones para clientes viejos 22/Ene/2018
+	Se modifico la generacion de ajustes para clientes viejo 22/Ene/2018
+	Se modifico la generacion de empresas para clientes viejos 23/Ene/2018
+	Se modifico la generacion de tarjetas para clientes viejos 23/Ene/2018
+	Se modifico la generacion de tarjetas stock para clientes viejos 23/Ene/2018
+	Se modifico la generacion de cancelacion de tarjetas para clientes viejos 23/Ene/2018
+	Se agrego la forma de pagos referenciados del banco 29/Ene/2018
+1.1.2	Se modifico el proceso de pagos referenciados 12/Mar/2018
+	Se modifico facturacion despensa para CFDI 3.3 14/Mar/2018
+	Se actualizo el combo de puestos en la pantalla de usuarios 14/Mar/2018
+1.3.0	Se agrego reporte de aclaraciones y se corrigio problema en captura de aclaraciones 23/Mar/2018
+	Se agrego la opcion de buscar cliente por nombre en la captura de correos electrónicos 1/Abr/2018
+	Se corrigieron detalles en el reporte de entrega de tarjetas 2/Abr/2018
+	Se quito el reporte de status de clientes BE ya que únicamente mostraba la fecha de alta del producto y la fecha de integración al banco pero cuando se cambia una comisión se cambia la fecha por lo que no sirve el reporte 2/Abr/2018
+	Se hicieron correcciones en la pantalla de cambio password 2/Abr/2018
+	Se modifico facturacion gasolina para CFDI 3.3 3/Abr/2018
+	Se quito el menú de Bitacora de pedidos ya que es la misma pantalla de autorización de pedidos de mesa de control 4/Abr/2018
+	Se agrego el status de Todos al reporte de produccion de tarjetas 5/Abr/2018
+	Se agrego la forma de Envio de tarjetas 5/Abr/2018
+	Se modifico facturacion tarjetas para CFDI 3.3 6/Abr/2018
+	Se modifico facturacion de comisiones proveedores para CFDI 3.3 11/Abr/2018
+	Se corrigio detalles en cancelación de factura 11/Abr/2018
+	Se corrigio detalles en cancelacion de facturas otros ingresos 11/Abr/2018
+	se corrigio el envío de correos electrónicos desde el sistema 11/Abr/2018
+	Se corrigio detalles en notas de credito 17/Abr/2018
+	Se corrigio la generacion de nota de credito 17/Abr/2018
+	Se corrigio detalles en cancelacion de notas de credito 20/Abr/2018
+	Se corrigio la generacion de nota de cargo 20/Abr/2018
+	Se corrigio detalles en cancelacion de notas de cargo 20/Abr/2018
+	Se quito la forma de transacciones por comercio ya que S&C no va a mandar el archivo RLiq 20/Abr/2018
+	Se quito la forma de captura de cargos del banco porque no se sabe su utilidad y solo esta funcionando para gasolina 20/Abr/2018
+	Se quito la forma de saldos finales ya que se van a subir en automático 20/Abr/2018
+	Se quito la forma de cancelacion de cuentas ya que no hay interfase con S&C que maneje las cancelaciones desde el sistem se tiene que hacer por cardman 20/Abr/2018
+	Se quito la forma de reactivar cuentas ya que se debe de hacer por cardman y llegarnos por interfase 20/Abr/2018
+	Se quito la forma de activacion masiva de tarjetas stock ya que eso lo va a realizar directamente el cliente desde el portal webvaletotal 20/Abr/2018
+	Se quito la forma de deshacer asignacion de cuentas stock ya que se va a realizar por la pagina webvaletotal 20/Abr/2018
+	Se corrigio la forma de envio de tarjetas 21/Abr/2018
+	Se quito la forma de captura de guias por que estaba duplicada con Envio de Tarjetas 22/Abr/2018
+	Se quito la forma de caratula de envios por que se va a usar la informacion de plazasbe 22/Abr/2018
+	Se corrigio la forma de control de envios 22/Abr/2018
+1.3.1	Se corrigio detalles en el registro de ingresos de comisiones 9/May/2018
+	Se corrigio detalles en el estado de cuenta Otros Ingresos 11/May/2018
+	Se corrigio detalles en la antiguedad de saldos Otros Ingresos 11/May/2018
+	Se corrigio etiquetas en facturacion CFDI 3.3 15/May/2018
+	Se agrego la forma de consulta de actividades del banco 16/May/2018
+	Se agrego la forma de catalogo de establecimientos 18/May/2018
+	Se quito el reporte de estados de resultados 23/May/2018
+	Se corrigio detalles en reportes de libro de ventas, notas de crédito y transacciones 25/May/2018
+	Se corrigio etiquetas en facturacion CFDI 3.3 26/May/2018
+	Se corrigio detalles en generador de consulta de movimientos de oi 28/May/2018
+	Se corrigio detalles en reporte de ingresos de Tarjetas 29/May/2018
+2.0	Se cambiaron comisiones por nuevos productos 15/Jul/2018
+	Se cambiaron valores de combos por cambio en nombre de los productos 15/Jul/2018
+	se corrigio detalles con Error Log 15/Jul/2018
+2.0.1	Se agrego el envío a S&C de 3 productos nuevos 8/Ago/2018
+	Si la version del sistema es diferente de la version de la BD no permitir continuarl 9/Ago/2018
+2.0.2	Se corrigio detalle con el costo de tarjetas de 3 productos nuevos 9/Ago/2018
+2.0.3	Se corrigio detalles en la generacion de archivos de tarjetas a S&C 9/Ago/2018
+	Se corrigio producto 12 por producto 11 14/Ago/2018
+	Se modifico la autorización de pedidos de dispersion sin factura 29/Ago/2018
+	Se corrigio detalles en nuevos productos en Facturacion OI 29/Ago/2018
+	Se corrigio detalles en la generacion de archivos de dispersion a S&C 30/Ago/2018
+	Se corrigio detalles en los costos de tarjetas 31/Ago/2018
+	Se agrego el archivo .cfa en cancelacion de facturas de otros ingresos 01/Sep/2018
+2.0.4	Se agregó la facturación auotmática en las pagos referenciados 05/Sep/2018
+	Se corrigio detalle al cambiar de producto en cancelacion de factura 05/Sep/2018
+2.0.5   Se agrego la autorizacion de pedidos de tarjeta por mesa de control 10/Sep/2018
+	se junto la factura de gasolina en uno solo 14/Sep/2018
+2.0.6  	Se corrigio detalles en la integracion de pagos referenciados 20/Sep/2018
+2.0.7  	Se corrigio detalles en la integracion de pagos referenciados 21/Sep/2018
+2.0.8	Se agrego puestos de contabilidad y ventas y atencion a clientes en catalogo de usuarios 28/Sep/2018
+	Se agrego la carga de archivos tipo NetCash de Bancomer ademas del de BeCom para depositos referenciados 17/Oct/2018
+	Se agrega el pedido al generar la factura de tarjetas en depositos referenciados 17/Oct/2018
+	Se quito el guardar en FM_Clientes_Movimientos en depositos referenciados de tarjetas 18/OCt/2018
+	Se modifico para que grabe en Ingresos y Depositos en lugar de OI en depositos referenciados de tarjetas 18/Oct/2018
+2.0.9	Se corrigio detalles en la serie al generar clientes movimientos en depositos referenciados 18/Oct/2018
+	Se corrigio detalle en el nombre de archivo stock productos nuevos al enviar a S&C 22/Oct/2018
+	se agrego la referencia al concepto para que no marque llave primaria en log depositos 22/Oct/2018
+2.0.10 	Se corrigio cambios en status al enviar tarjetas stock a S&C 22/Oct/2018
+	Se corrigio detalle al generar tarjetas S%c Productos nuevos 23/Oct/2018
+	Se corrigio status al importar archivos banco 25/Oct/2018
+2.0.11 	Se corrigio redondeo al importar depositos referenciados 30/Oct/2018
+2.0.12 	Se corrigio redondeo al importar depositos referenciados 30/Oct/2018
+2.0.13  Se agregaron reportes para contabilidad 31/Oct/2018
+2.0.14	Se corrigio layout dispersiones nuevos productos 5/Nov/2018
+	Se corrigio detalle con la referencia depositos referenciados 5/Nov/2018
+3.0.0	Se genero versión de registro de software 6/Nov/2018
+3.0.1	Se corrigio cancelación de factura gasolina 6/Nov/2018
+	Se corrigio cliente en envio MDF a s&C 7/Nov/2018
+	Se corrigio detalle en departamento Contabilidad en Catalogo de perfiles 14/Nov/2018
+	Se corrigio status de LiquidacionesBEPaso 23/Nov/2018
+3.0.2	Se corrigio producto al generar la factura de pagos referenciados 27/Nov/2018
+3.0.3 	Se corrigio producto al generar la factura de pagos referenciados 17/Dic/2018 
+3.0.3 	Se corrigio producto al reimprimir factura 20/Dic/2018
+	Se agrego validación en pagos referenciados de que si el pedido está cancelado no permita integrarlo 20/Dic/2018
+3.0.4	Se agrego referencia bancaria en autorización de pedidos para que mesa de control los identifique 30/Dic/2018
+3.0.5	Se quito candado de fecha en la cancelación de facturas de dias anteriores 3/Ene/2019
+3.0.6 	Se agrego el UsoCFDI en la factura electronica 10/ENE/2018
+		Se agrego si el cliente deduce o no la despensa en la factura electrónica 15/Ene/2019
+3.0.7	Se agrego etiqueta TotalServ factura electrónica 30/Ene/2019
+3.0.8	Se cambio etiqueta NumCtaPago por NumeroCuentaCMPV para que se imprima la cuenta la factura 5/Feb/2019
+	Se corrigio detalle en pagos referenciasdo 11/Feb/2019
+3.1.0   Se modifico los costos de tarjetas 13/Feb/2019
+	Se modifico el impuesto al grabar una factura de tarjetas manual 19/Feb/2019
+3.1.1	Ajustes al envio de información a syc 25/Feb/2019
+3.1.2	Ajustes al envio de información a syc 28/Feb/2019
+3.1.3	Ajustes al envio de información a syc 5/Mar/2019
+3.1.4	Ajustes al envio de información a syc 11/Mar/2019
+3.1.5   Se modifico la integracion de syc nuevos productos 12/Mar/2019
+3.1.6	Se agrego el metdodo de pago en la impresion de la factura 13/Mar/2019
+3.2.0   Ajustes al enviar alta empleadoras por solicitud de syc 27/Mar/2019
+	Ajuste al poner tipo de tarjeta en la factura de tarjetas 29/Mar/2019
+	Correccion al generar archivo de ajustes si no hay ajustes 5/Abr/2019
+	Correccion al generar archivo de tarjetas stock si son del mismo producto 8/Abr/2019
+	Al generar facturas buscar pedidos que no se han facturado y no cambiar el status 8/Abr/2019
+	Al generar depositos referencias cambiar el status del pedido a 10 8/Abr/2019
+3.2.1 Se hicieron cambios en la facturacion de tarjetas para buscar las que no estan facturadas 2/May/2019
+	Se actualizo la clave de rechazo para el cobro de saldos insuficientes y el ajuste sera de 1.5 + iva 15/May/2019
+	Se habilito la facturacion de comisiones 16/May/2019
+4.0.0   Se entregan fuentes 26/Jul/2019
+4.0.2   Correcion de datos en facturas
+4.0.3   Adecuacion de filtros para captura de información de tesoreria
+4.0.4   Filtro para producto wallet
+4.0.5   Modificacion de carga de archivos banco.
+4.0.6   Actualizar datos de facturaciòn.
